@@ -70,7 +70,6 @@ Among the machine learning models used in this project, the Autoencoder Neural N
 This project is open-source and available under the [MIT License](LICENSE).
   
 ## Contact
-Built with 💛 by [Nishant Raj](https://www.linkedin.com/in/the-nishant-raj-82972b208/).  
-Connect with me:  
+[Nishant Raj](https://www.linkedin.com/in/the-nishant-raj-82972b208/).   
 - **YouTube:** [the_nishant_raj](https://www.youtube.com/@the_nishant_raj)  
 - **Instagram:** [the_nishant_raj](https://www.instagram.com/the_nishant_raj/)
